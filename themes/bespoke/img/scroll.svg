@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="153.759" viewBox="0 0 88 153.759">
+  <g id="Group_410" data-name="Group 410" transform="translate(-676 -647.152)">
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(676 680.152)" fill="none" stroke="#cf9f82" stroke-width="1.5" opacity="0.5">
+      <circle cx="44" cy="44" r="44" stroke="none"/>
+      <circle cx="44" cy="44" r="43.25" fill="none"/>
+    </g>
+    <path id="Path_124" data-name="Path 124" d="M-401.376,703.263V754.9" transform="translate(1121.239 44.889)" fill="none" stroke="#e2baa2" stroke-width="1.5"/>
+    <path id="Path_125" data-name="Path 125" d="M716.056,777.442l-7.2,7.254-7.254-7.254" transform="translate(11 15.152)" fill="none" stroke="#e2baa2" stroke-width="1.5"/>
+    <rect id="Rectangle_255" data-name="Rectangle 255" width="29" height="18" transform="translate(706 671)" fill="#161616"/>
+    <text id="Scroll_down" data-name="Scroll down" transform="translate(716 647.152) rotate(90)" fill="#fff" font-size="14" font-family="Helvetica" letter-spacing="0.1em"><tspan x="0" y="0">Scroll Down</tspan></text>
+  </g>
+</svg>

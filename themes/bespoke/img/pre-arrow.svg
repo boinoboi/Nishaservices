@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99.646" height="59.681" viewBox="0 0 99.646 59.681">
+  <g id="Group_498" data-name="Group 498" transform="translate(1.063 59.681) rotate(-90)">
+    <path id="Path_124" data-name="Path 124" d="M0,51.637V0" transform="translate(30.181 0.059)" fill="none" stroke="#e2baa2" stroke-width="1.5"/>
+    <path id="Path_125" data-name="Path 125" d="M14.452,7.254,7.254,0,0,7.254" transform="translate(22.729 0)" fill="none" stroke="#e2baa2" stroke-width="1.5"/>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(0 25.848)" fill="none" stroke="#cf9f82" stroke-width="1.5" opacity="0.5">
+      <ellipse cx="29.84" cy="29.84" rx="29.84" ry="29.84" stroke="none"/>
+      <ellipse cx="29.84" cy="29.84" rx="29.09" ry="29.09" fill="none"/>
+    </g>
+    <rect id="Rectangle_255" data-name="Rectangle 255" width="22.527" height="19.667" transform="translate(18.154 72.067)" fill="#161616"/>
+    <text id="Prev" transform="translate(24.68 65.583) rotate(90)" fill="#fff" font-size="14" font-family="Helvetica" letter-spacing="0.1em"><tspan x="0" y="0">Prev</tspan></text>
+  </g>
+</svg>
