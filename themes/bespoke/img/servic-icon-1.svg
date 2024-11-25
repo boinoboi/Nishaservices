@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="41.404" viewBox="0 0 42 41.404">
+  <g id="Group_424" data-name="Group 424" transform="translate(0 1.068)">
+    <g id="Rectangle_260" data-name="Rectangle 260" transform="translate(0 19.33)" fill="none" stroke="#f8b54f" stroke-width="1.5">
+      <rect width="42" height="11.378" rx="5" stroke="none"/>
+      <rect x="0.75" y="0.75" width="40.5" height="9.878" rx="4.25" fill="none"/>
+    </g>
+    <g id="Rectangle_261" data-name="Rectangle 261" transform="translate(0 28.958)" fill="none" stroke="#f8b54f" stroke-width="1.5">
+      <rect width="42" height="11.378" rx="5" stroke="none"/>
+      <rect x="0.75" y="0.75" width="40.5" height="9.878" rx="4.25" fill="none"/>
+    </g>
+    <path id="Path_145" data-name="Path 145" d="M2181.739,2032.965c-4.064,0-3.906,5.261-.251,5.261h23.686c3.908,0,3.759,4.555,0,4.458" transform="translate(-2171.965 -2012.79)" fill="none" stroke="#f8b54f" stroke-width="1.5"/>
+    <path id="Path_146" data-name="Path 146" d="M2181.739,2032.965c-4.064,0-3.906,5.261-.251,5.261h23.686c3.908,0,3.759,4.555,0,4.458" transform="translate(-2171.965 -2003.178)" fill="none" stroke="#f8b54f" stroke-width="1.5"/>
+    <path id="Path_147" data-name="Path 147" d="M2159.167,1964.86s-8.334,8.105,0,16.674C2167.386,1973.545,2159.167,1964.86,2159.167,1964.86Z" transform="translate(-2137.277 -1964.86)" fill="none" stroke="#f8b54f" stroke-width="1.5"/>
+    <path id="Path_148" data-name="Path 148" d="M2165.161,1970.224s2.553-2.878,5.188-3.567c2.067,3.486,2.615,12.121-8.443,15.92" transform="translate(-2140.119 -1965.653)" fill="none" stroke="#f8b54f" stroke-width="1.5"/>
+    <path id="Path_150" data-name="Path 150" d="M2168.282,1970.224s-2.553-2.878-5.188-3.567c-2.067,3.486-2.615,12.121,8.443,15.92" transform="translate(-2149.456 -1965.653)" fill="none" stroke="#f8b54f" stroke-width="1.5"/>
+    <path id="Path_149" data-name="Path 149" d="M.842,3.6S3.214.69,5.848,0A10.371,10.371,0,0,1,0,14.5" transform="matrix(0.695, 0.719, -0.719, 0.695, 32.513, 6.867)" fill="none" stroke="#f8b54f" stroke-width="1.5"/>
+    <path id="Path_151" data-name="Path 151" d="M.84,10.9s2.372,2.91,5.006,3.6A10.371,10.371,0,0,0,0,0" transform="matrix(-0.695, 0.719, -0.719, -0.695, 21.787, 16.944)" fill="none" stroke="#f8b54f" stroke-width="1.5"/>
+  </g>
+</svg>
